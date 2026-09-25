@@ -6,6 +6,8 @@
     <layout name="npxnabnsnfns00001100101" font="Open Sans" controllayout="npxnabnsnfns00001100101" colorscheme="pxabnsnfns00001100101" string_table="pxabnsnfns00001100101" />
     <layout name="npnxnanbnsnfns00001100101" font="Open Sans" controllayout="npnxnanbnsnfns00001100101" colorscheme="pxabnsnfns00001100101" string_table="pxabnsnfns00001100101" />
     <layout name="pxabnsnfns00001100100" font="Open Sans" controllayout="pxabnsnfns00001100100" colorscheme="pxabnsnfns00001100101" string_table="pxabnsnfns00001100101" />
+    <layout name="pxabsnfns00001100101" font="Open Sans" controllayout="pxabsnfns00001100101" colorscheme="pxabnsnfns00001100101" string_table="pxabnsnfns00001100101" />
+    <layout name="pxnanbsnfns00001100101" font="Open Sans" controllayout="pxnanbsnfns00001100101" colorscheme="pxabnsnfns00001100101" string_table="pxabnsnfns00001100101" />
   </layouts>
   <control_options>
     <optiongroups>
@@ -13,7 +15,7 @@
         <options>
           <option name="title_enabled" value="true">
             <options>
-              <option name="title_text" value="e-modul trial" />
+              <option name="title_text" value="e-modul 1" />
             </options>
           </option>
           <option name="logo_enabled" value="false">
@@ -198,6 +200,52 @@
         </controls>
       </control>
       <control name="close_btn" enabled="false" />
+    </control_layout>
+    <control_layout name="pxabsnfns00001100101">
+      <control name="volume" enabled="true" />
+      <control name="seekbar" enabled="false" />
+      <control name="replay" enabled="false" />
+      <control name="pauseplay" enabled="false" />
+      <control name="logo" enabled="false" />
+      <control name="previous" enabled="true" />
+      <control name="next" enabled="true" />
+      <control name="swipeleft" enabled="true" />
+      <control name="swiperight" enabled="true" />
+      <control name="submit" enabled="true" />
+      <control name="finish" enabled="false" />
+      <control name="submitall" enabled="false" />
+      <control name="resources" enabled="true" />
+      <control name="glossary" enabled="false" />
+      <control name="transcript" enabled="false" />
+      <control name="outline" enabled="true">
+        <controls>
+          <control name="search" enabled="false" />
+        </controls>
+      </control>
+      <control name="close_btn" enabled="true" />
+    </control_layout>
+    <control_layout name="pxnanbsnfns00001100101">
+      <control name="volume" enabled="true" />
+      <control name="seekbar" enabled="false" />
+      <control name="replay" enabled="false" />
+      <control name="pauseplay" enabled="false" />
+      <control name="logo" enabled="false" />
+      <control name="previous" enabled="true" />
+      <control name="next" enabled="true" />
+      <control name="swipeleft" enabled="false" />
+      <control name="swiperight" enabled="false" />
+      <control name="submit" enabled="true" />
+      <control name="finish" enabled="false" />
+      <control name="submitall" enabled="false" />
+      <control name="resources" enabled="true" />
+      <control name="glossary" enabled="false" />
+      <control name="transcript" enabled="false" />
+      <control name="outline" enabled="true">
+        <controls>
+          <control name="search" enabled="false" />
+        </controls>
+      </control>
+      <control name="close_btn" enabled="true" />
     </control_layout>
   </control_layouts>
   <colorschemes>
@@ -1299,12 +1347,11 @@
             <slidelink slideid="_player.6AiwlOjnILy.6rPqaSvwrEB" displaytext="Untitled Slide" expand="false" type="slide" />
             <slidelink slideid="_player.6AiwlOjnILy.5keq5nG6Y47" displaytext="Untitled Slide" expand="false" type="slide" />
             <slidelink slideid="_player.6AiwlOjnILy.6cpHnMG2Vm8" displaytext="Untitled Slide" expand="false" type="slide" />
-            <slidelink slideid="_player.6AiwlOjnILy.636lAutIEoH" displaytext="Renungkan&#xA;Menurutmu, dimensi mana (lingkungan, sosial, atau ekonomi) yang paling sering diabaikan dalam pengelolaan kawasan pertambangan? Jelaskan alasanmu." expand="false" type="slide" />
             <slidelink slideid="_player.6AiwlOjnILy.6kAWdeibLMZ" displaytext="Renungkan&#xA;Apa hal baru yang kamu ketahui tentang kawasan pertambangan Pongkor? Tuliskan dalam 2-3 kalimat." expand="false" type="slide" />
             <slidelink slideid="_player.6AiwlOjnILy.68NKGpfSt1Y" displaytext="Renungkan&#xA;Konsep IPA baru apa yang paling membantu kamu memahami fenomena lingkungan yang sebelumnya hanya kamu ketahui dari cerita masyarakat?" expand="false" type="slide" />
             <slidelink slideid="_player.6AiwlOjnILy.5h2Hsl7jSrC" displaytext="RENUNGKAN&#xA;&#xA;Bukti atau tanda apa yang menurutmu paling meyakinkan untuk membuktikan bahwa suatu perairan telah tercemar? Mengapa?" expand="false" type="slide" />
-            <slidelink slideid="_player.6AiwlOjnILy.6ahg0hjF4SU" displaytext="Renungkan&#xA;Menurutmu, dimensi mana (lingkungan, sosial, atau ekonomi) yang paling sering diabaikan dalam pengelolaan kawasan pertambangan? Jelaskan alasanmu." expand="false" type="slide" />
-            <slidelink slideid="_player.6AiwlOjnILy.5eQ2mGNt7aD" displaytext="Essay" expand="false" type="slide" />
+            <slidelink slideid="_player.6AiwlOjnILy.62os2Tr8zrc" displaytext="Renungkan&#xA;Menurutmu, dimensi mana (lingkungan, sosial, atau ekonomi) yang paling sering diabaikan dalam pengelolaan kawasan pertambangan? Jelaskan alasanmu." expand="false" type="slide" />
+            <slidelink slideid="_player.6AiwlOjnILy.5eQ2mGNt7aD" displaytext="Renungkan&#xA;Aksi nyata apa yang dapat kamu lakukan mulai hari ini untuk turut menjaga kelestarian lingkungan di sekitar mu?" expand="false" type="slide" />
             <slidelink slideid="_player.6AiwlOjnILy.5ksFNgbqfkW" displaytext="Jelaskan pengertian pencemaran lingkungan dan berikan satu contoh kasus dari kawasan pertambangan Pongkor" expand="false" type="slide" />
             <slidelink slideid="_player.6AiwlOjnILy.60c43CWO7yS" displaytext="Sebutkan tiga sumber pencemaran yang dapat berasal&#xA;dari aktovitas pertambangan" expand="false" type="slide" />
             <slidelink slideid="_player.6AiwlOjnILy.60WWz4RBTwb" displaytext="Jelaskan keterkaitan antara pencemaran air akibat&#xA;pertambangan dengan dampak sosial dan ekonomi bagi&#xA;masyarakat di hilir sungai" expand="false" type="slide" />
